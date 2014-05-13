@@ -1,6 +1,6 @@
 .DS_Store
-dist/
 dist/zepto.min.js
+dist/zepto.min.gz
 pkg
 *.swp
 docs/*
