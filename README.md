@@ -1,5 +1,15 @@
 # Zepto.js – a minimalist JavaScript library
 
+This is not just Zepto but also tracks a custom build of zepto, and also exports out Zepto 
+
+### To make custom build 
+
+    $ MODULES="zepto event ajax form ie data stack" coffee make dist
+
+this includes some modules that are not included in normal zepto like data and stack.
+
+# Back to Zepto.js
+
 Zepto is a minimalist JavaScript library for modern browsers with a
 largely jQuery-compatible API. If you use jQuery, you already know how to use Zepto.
 
